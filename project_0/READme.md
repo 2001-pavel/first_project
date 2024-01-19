@@ -35,19 +35,19 @@ From the [Skillfactory Data Science course](https://github.com/2001-pavel/first_
 ### Краткая информация о данных 
 ....
 
-:arrow_up [к оглавлению](https://github.com/2001-pavel/first_project/tree/main/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/2001-pavel/first_project/tree/main/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Этапы работы над проектом
 ....
 
-:arrow_up [к оглавлению](https://github.com/2001-pavel/first_project/tree/main/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/2001-pavel/first_project/tree/main/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Результаты
 ....
 
-:arrow_up [к оглавлению](https://github.com/2001-pavel/first_project/tree/main/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/2001-pavel/first_project/tree/main/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Выводы
 ....
 
-:arrow_up [к оглавлению](https://github.com/2001-pavel/first_project/tree/main/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/2001-pavel/first_project/tree/main/project_0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
